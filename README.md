@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# NotesKeeper - make notes on the flow
+
+![alt text](https://github.com/DiligentCoder-20022001/NotesKeeper/blob/main/My%20Post%20(19).jpg)
+
+NotesKeeper helps to easily create notes with both speech as well as the conventional way of typing the notes. The project asks the user to register/login and then leads him/her to the notes which are created. These notes can be eidted or deleted based on his/her choice. Try the deployed version for a better understanding. 
+
+## Techstack used 
+
+1. React.JS 
+2. Firebase 
+3. Javascript Speech to text web API 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
