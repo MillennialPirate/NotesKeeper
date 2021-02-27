@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,900|Poppins:400,500');
+	* {
+	  margin: 0;
+	  padding: 0;
+	  text-decoration: none;
+	  box-sizing: border-box;
+	  -webkit-tap-highlight-color:rgba(0,0,0,0);
+	  -webkit-text-size-adjust:none;
+	  -webkit-font-smoothing: antialiased;
+	  -moz-osx-font-smoothing: grayscale;
+	  font-family:'Poppins', sans-serif;
+	}
+
+body{
+	height: auto;
+	background: url('./components/photo.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
