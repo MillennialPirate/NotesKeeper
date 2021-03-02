@@ -10,6 +10,10 @@ NotesKeeper helps to easily create notes with both speech as well as the convent
 2. Firebase 
 3. Javascript Speech to text web API 
 
+## Contributions that can be made 
+
+1. Making the front end more responsive
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
