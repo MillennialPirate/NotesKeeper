@@ -10,6 +10,10 @@ NotesKeeper helps to easily create notes with both speech as well as the convent
 2. Firebase 
 3. Javascript Speech to text web API 
 
+## Tutorial for React speech to text translation 
+
+1. https://medium.com/@amanda.k.hussey/a-basic-tutorial-on-how-to-incorporate-speech-recognition-with-react-6dff9763cea5
+
 ## Contributions that can be made 
 
 1. Making the front end more responsive
